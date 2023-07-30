@@ -1,10 +1,10 @@
-# website
+# bunkbed.tech
 
-www.bunkbed.tech
+bunkbed.tech is the homepage where you can find us
 
-A homepage to show off all our projects, documentation, and blog posts to track development.
+Project descriptions, documentation, and blog posts to track development for our projects can be found here. Dashboards, tools, and apps can be found on related subdomains. 
 
-## Ideas
+## Details
 
 - Host on-premises instead of using a cloud provider
 - Until an on-premises option can be achieved, use a Hetzner VPS
